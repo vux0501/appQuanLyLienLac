@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "336509585810",
+    "firebase_url": "https://appquanlythongtinlienlac-default-rtdb.firebaseio.com",
+    "project_id": "appquanlythongtinlienlac",
+    "storage_bucket": "appquanlythongtinlienlac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336509585810:android:29f6d2ddf71bb2ce86d94b",
+        "android_client_info": {
+          "package_name": "com.example.appqlttll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336509585810-gn21j22nsf25j5mllmminsk0a63jnl50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxAOPEVAo30ZKOGzU_ieGt-mGFkWfrFK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336509585810-gn21j22nsf25j5mllmminsk0a63jnl50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
